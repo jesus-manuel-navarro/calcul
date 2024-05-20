@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A9DFAD512BFB705400450FB7 /* calculApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DFAD502BFB705400450FB7 /* calculApp.swift */; };
 		A9DFAD532BFB705400450FB7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DFAD522BFB705400450FB7 /* ContentView.swift */; };
-		A9DFAD552BFB705400450FB7 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DFAD542BFB705400450FB7 /* Item.swift */; };
 		A9DFAD572BFB705600450FB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9DFAD562BFB705600450FB7 /* Assets.xcassets */; };
 		A9DFAD5A2BFB705600450FB7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9DFAD592BFB705600450FB7 /* Preview Assets.xcassets */; };
 		A9DFAD642BFB705600450FB7 /* calculTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DFAD632BFB705600450FB7 /* calculTests.swift */; };
@@ -38,7 +37,6 @@
 		A9DFAD4D2BFB705400450FB7 /* calcul.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calcul.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9DFAD502BFB705400450FB7 /* calculApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculApp.swift; sourceTree = "<group>"; };
 		A9DFAD522BFB705400450FB7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A9DFAD542BFB705400450FB7 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		A9DFAD562BFB705600450FB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9DFAD592BFB705600450FB7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A9DFAD5F2BFB705600450FB7 /* calculTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calculTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +96,6 @@
 			children = (
 				A9DFAD502BFB705400450FB7 /* calculApp.swift */,
 				A9DFAD522BFB705400450FB7 /* ContentView.swift */,
-				A9DFAD542BFB705400450FB7 /* Item.swift */,
 				A9DFAD562BFB705600450FB7 /* Assets.xcassets */,
 				A9DFAD582BFB705600450FB7 /* Preview Content */,
 			);
@@ -261,7 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9DFAD532BFB705400450FB7 /* ContentView.swift in Sources */,
-				A9DFAD552BFB705400450FB7 /* Item.swift in Sources */,
 				A9DFAD512BFB705400450FB7 /* calculApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
